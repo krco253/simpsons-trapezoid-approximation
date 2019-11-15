@@ -1,0 +1,700 @@
+n = 10 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 20 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 30 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 40 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 50 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 60 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 70 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 80 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 90 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 100 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 110 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 120 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 130 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 140 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 150 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 160 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 170 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 180 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 190 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 200 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 210 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 220 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 230 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 240 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 250 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 260 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 270 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 280 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 290 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 300 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 310 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 320 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 330 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 340 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 350 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 360 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 370 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 380 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 390 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 400 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 410 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 420 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 430 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 440 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 450 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 460 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 470 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 480 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 490 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 500 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 510 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 520 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 530 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 540 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 550 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 560 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 570 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 580 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 590 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 600 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 610 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 620 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 630 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 640 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 650 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 660 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 670 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 680 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 690 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 700 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 710 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 720 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 730 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 740 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 750 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 760 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 770 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 780 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 790 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 800 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 810 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 820 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 830 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 840 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 850 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 860 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 870 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 880 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 890 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 900 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 910 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 920 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 930 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 940 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 950 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 960 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 970 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 980 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 990 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
+n = 1000 
+First integral Trapezoid Error: 1.718282e+00 
+Second integral Trapezoid Error: 1.386294e+00 
+Periodic integral Trapezoid Error: 4.596977e-01 
+First Integral Simpson's Error: 1.718282e+00 
+Second Integral Simpson's Error: 1.386294e+00 
+Periodic Integral Simpson's Error: 4.596977e-01 
